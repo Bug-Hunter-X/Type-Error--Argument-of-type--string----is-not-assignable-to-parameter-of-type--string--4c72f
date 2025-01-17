@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: passing an array to a function expecting a string. The `bug.ts` file contains the erroneous code, while `bugSolution.ts` provides a corrected version.  The error arises from TypeScript's type system, which enforces type safety.  The solution showcases how to handle different input types to avoid this error.
